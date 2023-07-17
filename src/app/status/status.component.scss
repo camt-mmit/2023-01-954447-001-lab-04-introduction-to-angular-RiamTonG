@@ -1,0 +1,23 @@
+h1 {
+  margin-left: 5cm;
+}
+
+body {
+  margin-left: 5cm;
+}
+table,
+tr,
+td {
+  text-align: left;
+}
+table {
+  width: 80%;
+  height: 100px;
+}
+td.blue {
+  color: blue;
+}
+
+td:nth-child(3) {
+  padding-left: 15px;
+}
