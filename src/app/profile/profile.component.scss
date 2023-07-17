@@ -1,0 +1,15 @@
+body {
+  margin-left: 5cm;
+}
+a {
+  color: blue;
+  text-decoration: none;
+  border: 1px solid blue;
+  border-radius: 30px;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 5px 5px 5px;
+}
+
+a.st-active {
+  background-color: silver;
+}

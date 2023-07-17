@@ -1,0 +1,31 @@
+h1 {
+  margin-left: 3cm;
+}
+body {
+  text-align: center;
+  margin: auto;
+}
+table,
+th,
+td {
+  margin: auto;
+  text-align: left;
+  border: 1px solid;
+  border-collapse: collapse;
+}
+table {
+  width: 60%;
+  height: 100px;
+}
+a {
+  color: blue;
+  text-decoration: none;
+  border: 1px solid blue;
+  border-radius: 30px;
+  padding: 2.5px 2.5px 2.5px 2.5px;
+  margin: 3px 3px 3px 3px;
+}
+
+a.st-active {
+  background-color: silver;
+}

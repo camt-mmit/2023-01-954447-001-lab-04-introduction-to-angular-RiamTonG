@@ -1,0 +1,25 @@
+h1,
+nav {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  border: 1px solid blue;
+  border-radius: 4px;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 5px 5px 5px;
+}
+
+a.st-active {
+  background-color: silver;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
